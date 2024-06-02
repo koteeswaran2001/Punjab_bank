@@ -1,0 +1,131 @@
+.topdiv{
+	width:80%;
+	height:50px;
+	background-color:#940b36;
+	color:#cfafb7;
+	font-size:15px;
+	padding-left:20%;
+}
+.active{
+	
+}
+.active:hover {
+           color: white;
+}
+
+.topdivtableth1{
+	 margin-top:8px;
+	 background-color:#840c32;
+	 border:none;
+	 height:30px;
+    width:200px;
+}
+
+.topdiv2{
+	width:100%;
+	background-color:#a20a3a;
+	color:white;
+    height:30px;
+}
+
+.dropoption {
+  background-color: #a20a3a;
+  color: white;
+  padding:20px;
+  font-size: 16px;
+  border: none;
+}
+
+.dropdown {
+  position:relative;
+  display: inline-block;
+  padding-left:10px;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width:300px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  padding-left:10px;
+  color:#a20e37;
+}
+
+.dropdown-content a {
+  text-decoration: none;
+  display: block;
+  color:#a20e37;
+}
+
+.dropdown-content a:hover {
+	 color:black;
+     text-decoration:underline;
+	}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropoption {
+	        background-color:white;
+             color:#a20a3a;	
+	 }
+
+.fixeddiv1 {
+  position: absolute;
+  margin-top: 65px;
+  margin-right:0px;
+  margin-left:70%;
+  width: 19%;
+  height:30px;
+  border:7px solid #f6b801;
+  background-color:white;
+  color:black;
+  text-align:black;
+  font-size:20px;
+  text-align:center;
+  text-align:center;
+}
+.fixeddiv1:hover{
+     background-color:#940b36;	
+	 color:white;
+}
+.fixeddiv {
+  position: fixed;
+  top: 196px;
+  right: 8px;
+  width: 28px;
+  border: 3px solid #940b36;
+  background-color:#940b36;
+  padding-left:2px;
+}
+.homepage{
+	width:100%;
+	height:769px;
+	background-color:#f3ed95;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto;
+  background-color:auto;
+  width:20%;
+  height:10%;
+  position:absolute;
+  margin-left:70%;
+  margin-top:4%;
+  gap:4px;
+}
+.grid-item {
+  border-left:10px solid #a20e37; 
+  background-color:white;
+  padding: 4px;
+  font-size: 16px;
+  box-shadow: 5px 0px 	5px #888888;
+}
+.grid-item:hover {
+	background-color:#a20e37;
+	color:white;
+}
+
+

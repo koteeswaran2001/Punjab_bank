@@ -1,0 +1,90 @@
+.topdivbr{
+	border:1px solid #940b36;
+	background-color:#940b36;
+	text-align:center;
+    position: relative;
+	color: white;
+	font-size:20px;
+	width:100%;
+	
+}
+
+.topdivbrin{
+	width:80%;
+	padding-left:50px;
+	padding-top:0px;
+	height:30px;
+	text:white;
+}
+
+.topdivbrhover{
+	background-color:#a20a3a;
+	text-align:center;
+    position: relative;
+	height:90px;
+	width:100%;
+	color: white;
+	font-size:20px;
+}
+
+.topdivbrlower{
+	background-color:#f6b801;
+	text-align:center;
+	height:50px;
+	width:auto;
+	color: #940b36;
+	font-size:15px;
+	padding-left:20%;
+	padding-right:20%;
+}
+
+.fixeddiv {
+  position: fixed;
+  top: 185px;
+  right: 8px;
+  width: 30px;
+  border: 3px solid #940b36;
+  background-color:#940b36;
+  padding-left:2px;
+}
+
+.fixeddiv1 {
+  position: absolute;
+  margin-top: 0px;
+  margin-right:0px;
+  margin-left:68%;
+  width: 20%;
+  height:30px;
+  border:7px solid #f6b801;
+  background:#940b36;
+  color:white;
+  text-align:center;
+  font-size:20px;
+}
+
+.fixeddiv2 {
+  position: absolute;
+  margin-top: 5%;
+  margin-right:0px;
+  margin-left:68%;
+  width: 20%;
+  height:40%;
+  background:white;
+  text-align:center;
+  font-size:
+  
+  
+  
+  
+  
+  15px;
+  
+}
+.ul1{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+    border:2px solid green;
+}
